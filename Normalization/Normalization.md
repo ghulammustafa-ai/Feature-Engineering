@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 📌 Normalization Techniques in Machine Learning
 
 ---
